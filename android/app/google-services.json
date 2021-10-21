@@ -1,0 +1,77 @@
+{
+  "project_info": {
+    "project_number": "318682938349",
+    "firebase_url": "https://soft-campus.firebaseio.com",
+    "project_id": "soft-campus",
+    "storage_bucket": "soft-campus.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:318682938349:android:a197da0fe6ad774c",
+        "android_client_info": {
+          "package_name": "net.softcampus.school"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "318682938349-1ti0sm3slud8crstflup2dcdomfp9t2u.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyCx9S-14FSO_rlf2e6vGJMnj9z3b00E1b4"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "318682938349-1ti0sm3slud8crstflup2dcdomfp9t2u.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    },
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:318682938349:android:97ef8e3bb83062b5",
+        "android_client_info": {
+          "package_name": "net.demo.s"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "318682938349-p73lf9umfqsgvld4e2rmbchjhjoitrk9.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "net.demo.s",
+            "certificate_hash": "18dbc158daf5f9aab52c53e547359eb023859a0c"
+          }
+        },
+        {
+          "client_id": "318682938349-1ti0sm3slud8crstflup2dcdomfp9t2u.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyCx9S-14FSO_rlf2e6vGJMnj9z3b00E1b4"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "318682938349-1ti0sm3slud8crstflup2dcdomfp9t2u.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
